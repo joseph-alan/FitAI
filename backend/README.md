@@ -2,6 +2,16 @@
 
 A Flask-based REST API for workout management with user authentication using JWT tokens.
 
+## 📚 **Documentation**
+
+📖 **Complete documentation is available in the [`docs/`](docs/) folder:**
+
+- [📋 API Documentation](docs/API_DOCUMENTATION.md) - Complete API reference
+- [🚀 Production Deployment](docs/PRODUCTION_DEPLOYMENT.md) - Deployment guide
+- [🗄️ Database Setup](docs/DATABASE_SETUP_GUIDE.md) - Database configuration
+- [🔐 JWT Authentication](docs/JWT_USER_IDENTIFICATION.md) - Authentication guide
+- [🐛 Error Handling](docs/ERROR_HANDLING_FIX.md) - Troubleshooting guide
+
 ## Features
 
 - User registration and authentication
@@ -10,6 +20,8 @@ A Flask-based REST API for workout management with user authentication using JWT
 - Input validation using Marshmallow
 - Password hashing with bcrypt
 - RESTful API design
+- Exercise management with muscle group grouping
+- Swagger API documentation
 
 ## Prerequisites
 
